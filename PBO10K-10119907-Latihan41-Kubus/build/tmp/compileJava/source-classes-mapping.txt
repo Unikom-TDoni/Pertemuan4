@@ -1,0 +1,4 @@
+id/tdoni/kubus/Main.java
+ id.tdoni.kubus.Main
+id/tdoni/kubus/Kubus.java
+ id.tdoni.kubus.Kubus
