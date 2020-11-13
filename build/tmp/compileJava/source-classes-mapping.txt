@@ -1,0 +1,4 @@
+id/tdoni/kalkulator/Main.java
+ id.tdoni.kalkulator.Main
+id/tdoni/kalkulator/Kalkulator.java
+ id.tdoni.kalkulator.Kalkulator
