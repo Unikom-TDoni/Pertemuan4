@@ -1,0 +1,4 @@
+id/tdoni/gajipegawai/GajiPegawai.java
+ id.tdoni.gajipegawai.GajiPegawai
+id/tdoni/gajipegawai/Main.java
+ id.tdoni.gajipegawai.Main
