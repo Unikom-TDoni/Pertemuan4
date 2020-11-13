@@ -1,0 +1,6 @@
+id/tdoni/master/Main.java
+ id.tdoni.master.Main
+id/tdoni/kalkulatorkinetik/DataBolaBaseball.java
+ id.tdoni.kalkulatorkinetik.DataBolaBaseball
+id/tdoni/kalkulatorkinetik/KalkulatorEnergiKinetik.java
+ id.tdoni.kalkulatorkinetik.KalkulatorEnergiKinetik
