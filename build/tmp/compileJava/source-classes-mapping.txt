@@ -1,0 +1,8 @@
+id/tdoni/master/Main.java
+ id.tdoni.master.Main
+id/tdoni/kalkulatornilai/KalkulatorNilai.java
+ id.tdoni.kalkulatornilai.KalkulatorNilai
+id/tdoni/kalkulatornilai/DataNilai.java
+ id.tdoni.kalkulatornilai.DataNilai
+id/tdoni/kalkulatornilai/IndexNilai.java
+ id.tdoni.kalkulatornilai.IndexNilai
