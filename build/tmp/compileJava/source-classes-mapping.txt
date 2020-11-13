@@ -1,0 +1,4 @@
+id/tdoni/ohm/Baterai.java
+ id.tdoni.ohm.Baterai
+id/tdoni/ohm/Main.java
+ id.tdoni.ohm.Main
